@@ -1,0 +1,3 @@
+-- Q15 評価済み件数
+-- ordersの全行に顧客の全注文数とrating非NULLの件数を付加。出力: order_id, customer_id, total_count, rated_count。
+-- ここにSELECT文を記述してください。

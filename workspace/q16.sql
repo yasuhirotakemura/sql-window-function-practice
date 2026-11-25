@@ -1,0 +1,3 @@
+-- Q16 連携キー重複排除
+-- ordersのsource_refごとに後着レコード（order_id最大）を1件残す。出力: source_ref, order_id, customer_id。
+-- ここにSELECT文を記述してください。

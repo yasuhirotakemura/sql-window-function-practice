@@ -1,0 +1,3 @@
+-- Q60 連携データの最新化と売上再集計
+-- ordersでsource_refごとに後着ID最大の行を残し、その後completedのみを売上として、顧客別の全期間合計を算出。全customersを含め、実績なし0。各地域で上位5顧客（同額はcustomer_id昇順）を取得。出力: region, customer_id, amount, rn。
+-- ここにSELECT文を記述してください。

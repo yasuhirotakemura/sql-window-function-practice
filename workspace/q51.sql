@@ -1,0 +1,3 @@
+-- Q51 Pareto分析：80%到達まで
+-- customer_salesを売上降順、customer_id昇順に並べ、全売上の累積80%に初めて達する行まで取得（到達行を含む）。総額0なら0行。出力: customer_id, amount, cumulative_amount, cumulative_share。
+-- ここにSELECT文を記述してください。

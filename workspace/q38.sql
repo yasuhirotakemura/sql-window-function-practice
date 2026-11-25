@@ -1,0 +1,3 @@
+-- Q38 同時刻を含む累積売上
+-- salesで顧客ごとに、その注文時刻まで（同時刻の全取引を含む）の累積売上を付加。出力: customer_id, order_id, ordered_at, amount, cumulative_amount。
+-- ここにSELECT文を記述してください。

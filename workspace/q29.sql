@@ -1,0 +1,3 @@
+-- Q29 顧客デシル
+-- customer_salesの全顧客を売上降順・customer_id昇順で人数がほぼ均等な10群に分類。1が最高。出力: customer_id, amount, decile。
+-- ここにSELECT文を記述してください。

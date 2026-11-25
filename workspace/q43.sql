@@ -1,0 +1,3 @@
+-- Q43 地域内のP90
+-- customer_salesで顧客ごとに地域の売上90パーセンタイル（連続補間）と、その閾値との差を付ける。出力: region, customer_id, amount, p90, diff。
+-- ここにSELECT文を記述してください。

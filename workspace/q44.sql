@@ -1,0 +1,3 @@
+-- Q44 給与平均との差の標準化
+-- employeesで部署別に給与のzスコア（母標準偏差を使用）を算出。標準偏差0ならNULL。出力: department, employee_id, salary, z_score。
+-- ここにSELECT文を記述してください。

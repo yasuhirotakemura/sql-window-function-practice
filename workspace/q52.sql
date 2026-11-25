@@ -1,0 +1,3 @@
+-- Q52 ABC分析：商品分類
+-- product_salesを全商品売上降順、product_id昇順で並べ、直前行までの累積構成比が70%未満ならA、90%未満ならB、それ以外C。総額0ならC。出力: product_id, amount, abc_class。
+-- ここにSELECT文を記述してください。

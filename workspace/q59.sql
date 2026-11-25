@@ -1,0 +1,3 @@
+-- Q59 カテゴリ別売上順位の変動
+-- product_monthlyとproductsで、全商品・月（ゼロ売上を含む）をカテゴリ内・月別売上降順で順位付け（同率同順位・欠番あり）。前月から順位が改善した商品・月のみ抽出。出力: month_start, category, product_id, amount, current_rank, previous_rank, improvement。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q54 購入セッションの集計
+-- Q53と同じセッション定義で、purchase操作を含むセッションのみ集計。出力: customer_id, session_no, started_at, ended_at, event_count, purchase_count。
+-- ここにSELECT文を記述してください。

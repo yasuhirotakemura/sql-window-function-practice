@@ -1,0 +1,3 @@
+-- Q47 月間の売上目標達成率順位
+-- sales_targetsの全従業員・月を対象に実績売上（未実績0）を付け、月ごとの達成率降順で同率同順位・欠番ありの順位を算出。目標0は達成率と順位をNULLにする（順位計算対象外）。出力: employee_id, month_start, target_amount, actual_amount, rate, rnk。
+-- ここにSELECT文を記述してください。

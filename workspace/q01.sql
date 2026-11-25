@@ -1,0 +1,3 @@
+-- Q01 全取引の新しい順
+-- ordersの全行に、新しい注文から1始まりの連番を付ける。同時刻はorder_id昇順。出力: order_id, ordered_at, seq。
+-- ここにSELECT文を記述してください。

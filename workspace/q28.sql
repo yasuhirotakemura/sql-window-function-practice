@@ -1,0 +1,3 @@
+-- Q28 カテゴリ内売上構成比
+-- product_salesでカテゴリ総売上に占める商品の割合（0〜1）。出力: category, product_id, amount, share。
+-- ここにSELECT文を記述してください。

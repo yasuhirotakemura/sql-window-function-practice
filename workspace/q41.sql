@@ -1,0 +1,3 @@
+-- Q41 過去3か月売上（当月除外）
+-- product_monthlyで商品・月別に、当月を除く直前3か月の売上合計。1月はNULL、2〜3月は存在する月のみ。出力: product_id, month_start, amount, previous_3m。
+-- ここにSELECT文を記述してください。

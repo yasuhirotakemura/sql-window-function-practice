@@ -1,0 +1,3 @@
+-- Q05 部署別の給与階級
+-- employeesの部署内で給与が高い順に同額同順位・欠番なしの順位を付ける。出力: department, employee_id, salary, salary_rank。
+-- ここにSELECT文を記述してください。

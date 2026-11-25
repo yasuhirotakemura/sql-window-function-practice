@@ -1,0 +1,3 @@
+-- Q18 カテゴリ別売上トップ3
+-- product_salesからカテゴリ内で売上上位3商品。固定3件、同額はproduct_id昇順。出力: category, product_id, amount, rn。
+-- ここにSELECT文を記述してください。

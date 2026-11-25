@@ -1,0 +1,3 @@
+-- Q07 売上明細と顧客累計額
+-- salesの各明細に顧客の年間売上総額を付加。出力: order_id, customer_id, amount, customer_total。
+-- ここにSELECT文を記述してください。

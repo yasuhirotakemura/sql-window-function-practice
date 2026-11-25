@@ -1,0 +1,5 @@
+*.duckdb
+*.duckdb.wal
+.venv/
+__pycache__/
+expected_results/*.csv

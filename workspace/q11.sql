@@ -1,0 +1,3 @@
+-- Q11 次のアクセス時刻
+-- access_logsで顧客ごとの次回操作時刻を付加。時刻昇順、同時刻はlog_id昇順。出力: customer_id, log_id, event_at, next_event_at。
+-- ここにSELECT文を記述してください。

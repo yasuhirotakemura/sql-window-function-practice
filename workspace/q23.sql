@@ -1,0 +1,3 @@
+-- Q23 前月割れ商品
+-- product_monthlyで前月比売上が減少した商品・月のみ抽出。出力: product_id, month_start, amount, prev_amount。
+-- ここにSELECT文を記述してください。

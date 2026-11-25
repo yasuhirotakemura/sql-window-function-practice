@@ -1,0 +1,3 @@
+-- Q40 前後を含む在庫の平滑化
+-- inventoryで各商品・観測日に、前後各1観測行と当日を含む平均在庫を算出。端は存在する行のみ。出力: product_id, stock_date, smoothed_stock。
+-- ここにSELECT文を記述してください。

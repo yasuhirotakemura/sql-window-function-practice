@@ -1,0 +1,3 @@
+-- Q24 月内累積売上
+-- daily_salesで月初から各日までの累積を算出。出力: sale_date, amount, month_cumulative。
+-- ここにSELECT文を記述してください。

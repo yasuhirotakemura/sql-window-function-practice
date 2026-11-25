@@ -1,0 +1,3 @@
+-- Q49 購入額の3回連続増加
+-- salesの顧客別時系列で、前々回額 < 前回額 < 今回額となる取引を抽出。同時刻はorder_id昇順。出力: customer_id, order_id, prev2_amount, prev_amount, amount。
+-- ここにSELECT文を記述してください。

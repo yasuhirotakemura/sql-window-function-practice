@@ -1,0 +1,3 @@
+-- Q09 商品最低在庫
+-- inventoryの全行に商品ごとの観測期間中の最低在庫を付加。出力: product_id, stock_date, stock_qty, min_stock。
+-- ここにSELECT文を記述してください。

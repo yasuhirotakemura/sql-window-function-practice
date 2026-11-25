@@ -1,0 +1,3 @@
+-- Q32 初回・最終注文ID
+-- ordersの全行に顧客の最古・最新の注文IDを付加。時刻昇順・同時刻はorder_id昇順の先頭と末尾。出力: order_id, customer_id, first_id, last_id。
+-- ここにSELECT文を記述してください。

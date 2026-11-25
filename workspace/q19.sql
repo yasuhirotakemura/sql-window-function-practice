@@ -1,0 +1,3 @@
+-- Q19 給与上位3順位
+-- employeesの部署別給与上位3順位の全員。同額同順位・欠番あり。出力: department, employee_id, salary, rnk。
+-- ここにSELECT文を記述してください。

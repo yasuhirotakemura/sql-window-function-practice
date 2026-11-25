@@ -1,0 +1,3 @@
+-- Q12 最初の購入時刻
+-- sales各行に顧客の初回購入時刻を付ける。出力: customer_id, order_id, first_purchase_at。
+-- ここにSELECT文を記述してください。

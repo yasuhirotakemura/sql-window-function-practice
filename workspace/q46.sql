@@ -1,0 +1,3 @@
+-- Q46 月別商品カテゴリ順位
+-- salesとproductsを使い、実績のある商品・月の売上を集計。各月・カテゴリの上位2商品を固定件数で抽出（同額はproduct_id昇順）。出力: month_start, category, product_id, amount, rn。
+-- ここにSELECT文を記述してください。

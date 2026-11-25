@@ -1,0 +1,3 @@
+-- Q06 明細と顧客注文数
+-- ordersの各行に当該顧客の全注文数を付加。出力: order_id, customer_id, order_count。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q02 顧客別の注文順
+-- ordersで顧客ごとに古い順の注文番号を付ける。同時刻はorder_id昇順。出力: customer_id, order_id, seq。
+-- ここにSELECT文を記述してください。

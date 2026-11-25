@@ -1,0 +1,3 @@
+-- Q21 購入間隔
+-- salesの顧客ごとに直前購入からの日数（暦日差）を求める。同時刻はorder_id昇順。初回NULL。出力: customer_id, order_id, days_since_prev。
+-- ここにSELECT文を記述してください。

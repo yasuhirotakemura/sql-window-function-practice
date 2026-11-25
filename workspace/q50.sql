@@ -1,0 +1,3 @@
+-- Q50 在庫欠損日の検知
+-- inventoryで商品別の直前観測日から2日以上離れている観測行を抽出。欠損日数も算出。出力: product_id, stock_date, previous_date, missing_days。
+-- ここにSELECT文を記述してください。

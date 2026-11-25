@@ -1,0 +1,3 @@
+-- Q45 前々回購入との比較
+-- salesで顧客ごとに前々回購入額を取得し、差額を算出。時刻昇順・同時刻はorder_id昇順。存在しない場合NULL。出力: customer_id, order_id, amount, prev2_amount, diff。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q34 直近の有効評価
+-- ordersで顧客の各取引に、その取引以前の直近非NULL評価を付加。時刻昇順・同時刻はorder_id昇順。出力: customer_id, order_id, rating, latest_rating。
+-- ここにSELECT文を記述してください。

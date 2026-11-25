@@ -1,0 +1,3 @@
+-- Q27 顧客売上構成比
+-- customer_salesで年間総売上に占める各顧客の割合（0〜1）。出力: customer_id, amount, share。
+-- ここにSELECT文を記述してください。

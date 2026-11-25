@@ -1,0 +1,3 @@
+-- Q37 最新取引がキャンセルの顧客
+-- ordersから顧客ごとに最新取引を1件決定し、それがcancelledの場合だけ出力。同時刻はorder_id昇順。出力: customer_id, order_id, status。
+-- ここにSELECT文を記述してください。

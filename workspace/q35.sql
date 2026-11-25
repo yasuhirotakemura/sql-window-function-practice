@@ -1,0 +1,3 @@
+-- Q35 地域中央値超え
+-- customer_salesで地域内の売上中央値を超える顧客を抽出。出力: region, customer_id, amount, region_median。
+-- ここにSELECT文を記述してください。

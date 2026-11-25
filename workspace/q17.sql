@@ -1,0 +1,3 @@
+-- Q17 顧客ごと直近3注文
+-- ordersから顧客別最新3件（3件未満は全件）。同時刻はorder_id昇順。出力: customer_id, order_id, ordered_at, rn。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q22 前月売上比較
+-- product_monthlyの各商品・月で前月売上と差額を算出。1月はNULL。出力: product_id, month_start, amount, prev_amount, diff。
+-- ここにSELECT文を記述してください。

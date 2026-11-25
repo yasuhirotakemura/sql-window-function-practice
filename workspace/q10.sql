@@ -1,0 +1,3 @@
+-- Q10 前回購入額
+-- salesで顧客ごとに直前の購入額を付加。古い順、同時刻はorder_id昇順。初回NULL。出力: customer_id, order_id, amount, prev_amount。
+-- ここにSELECT文を記述してください。

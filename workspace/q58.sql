@@ -1,0 +1,3 @@
+-- Q58 地域別デシル集計
+-- customer_salesの顧客を地域ごとに売上降順、customer_id昇順で10分割し、各地域・デシルの人数、合計額、地域売上に対する累積構成比（0〜1）を算出。出力: region, decile, customer_count, amount, cumulative_share。
+-- ここにSELECT文を記述してください。

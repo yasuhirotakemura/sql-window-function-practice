@@ -1,0 +1,3 @@
+-- Q55 最長連続欠品
+-- inventoryでstock_qty=0が暦日で連続する最長期間を商品ごとに1件抽出。欠損日は連続を切る。同日数なら開始日が早い方。欠品なしは除外。出力: product_id, start_date, end_date, days。
+-- ここにSELECT文を記述してください。

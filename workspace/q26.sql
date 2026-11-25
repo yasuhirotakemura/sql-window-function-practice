@@ -1,0 +1,3 @@
+-- Q26 暦日7日の在庫平均
+-- inventoryで商品別に当日を含む直近7暦日内の観測値だけで平均在庫。出力: product_id, stock_date, avg_stock。
+-- ここにSELECT文を記述してください。

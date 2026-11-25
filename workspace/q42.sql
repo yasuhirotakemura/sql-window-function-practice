@@ -1,0 +1,3 @@
+-- Q42 前年内最高月の更新
+-- product_monthlyで商品別に、当月額がそれ以前の全月の最大額を厳密に超えた月だけ取得。1月は除外。出力: product_id, month_start, amount, previous_max。
+-- ここにSELECT文を記述してください。

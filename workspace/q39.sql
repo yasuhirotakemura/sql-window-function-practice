@@ -1,0 +1,3 @@
+-- Q39 連携重複グループの全明細
+-- ordersでsource_refが2件以上出現するキーの全行を取得。出力: source_ref, order_id, customer_id, duplicate_count。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q30 地域内の相対順位
+-- customer_salesで地域別に売上昇順の相対順位（最小0、最大は同率でなければ1）。出力: region, customer_id, amount, relative_rank。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q36 完了率を明細に付与
+-- ordersの各行に顧客の全注文数、完了件数、完了率（0〜1）を付ける。出力: order_id, customer_id, total_count, completed_count, completed_rate。
+-- ここにSELECT文を記述してください。

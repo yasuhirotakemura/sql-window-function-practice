@@ -1,0 +1,3 @@
+-- Q04 地域別の給与順位
+-- employeesの給与を地域内で高い順に順位付け。同額同順位、欠番あり。出力: region, employee_id, salary, salary_rank。
+-- ここにSELECT文を記述してください。

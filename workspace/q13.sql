@@ -1,0 +1,3 @@
+-- Q13 日別累積売上
+-- daily_salesの各日に年初から当日までの累積売上を付加。出力: sale_date, amount, cumulative_amount。
+-- ここにSELECT文を記述してください。

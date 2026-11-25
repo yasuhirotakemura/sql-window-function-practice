@@ -1,0 +1,3 @@
+-- Q03 顧客別最新注文
+-- ordersから顧客ごとに最新注文を1件取得。同時刻はorder_id昇順。出力: customer_id, order_id, ordered_at。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q33 2回目購入の金額
+-- salesの全行に顧客の2回目購入額を付加。時刻昇順・同時刻はorder_id昇順。2回未満NULL。出力: customer_id, order_id, second_amount。
+-- ここにSELECT文を記述してください。

@@ -1,0 +1,3 @@
+-- Q31 売上累積分布
+-- customer_salesで売上が自分以下の顧客の割合（全顧客を分母、同額を含む）。出力: customer_id, amount, cumulative_dist。
+-- ここにSELECT文を記述してください。

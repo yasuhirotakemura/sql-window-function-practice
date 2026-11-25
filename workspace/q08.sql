@@ -1,0 +1,3 @@
+-- Q08 部署平均給与
+-- employeesの各行に所属部署の平均給与と平均との差を追加。出力: employee_id, salary, dept_avg, diff。
+-- ここにSELECT文を記述してください。

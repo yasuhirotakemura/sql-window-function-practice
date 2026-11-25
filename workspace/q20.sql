@@ -1,0 +1,3 @@
+-- Q20 給与上位3水準
+-- employeesの部署別に高い方から異なる給与額3水準に属する全員。出力: department, employee_id, salary, rnk。
+-- ここにSELECT文を記述してください。
