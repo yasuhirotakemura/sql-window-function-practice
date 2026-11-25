@@ -2,7 +2,10 @@ FROM mcr.microsoft.com/devcontainers/python:1-3.12-bookworm
 
 USER root
 
-RUN apt-get update \
+# Yarn is not used by this project. Disable its inherited APT source only.
+# Keep signature verification enabled for all remaining repositories.
+RUN rm -f /etc/apt/sources.list.d/yarn.list /etc/apt/sources.list.d/yarn.sources \
+    && apt-get update \
     && apt-get install -y --no-install-recommends curl unzip ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
